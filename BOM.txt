@@ -1,0 +1,41 @@
+My setup
+
+______________
+
+
+ICM-20948 (sparkfun type)
+Adafruit DRV2605L Haptic Motor Controller - STEMMA QT / Qwiic
+Product ID: 2305
+
+Vibrating Mini Motor Disc
+Product ID: 1201
+
+Adafruit QT Py ESP32-S3 WiFi Dev Board with STEMMA QT - 8 MB Flash / No PSRAM
+
+Adafruit LiIon or LiPoly Charger BFF Add-On for QT Py
+Product ID: 5397
+
+Lithium Ion Polymer Battery - 3.7v 500mAh
+
+https://www.amazon.com/Organizer-HUAPX-Self-Adhesive-Fastening-Adjustable/dp/B088FH1289/ref=sr_1_2?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.ZWJQlNox3AJ_sVWuh3FWq5QWcRfkVNTwNEjSXwPU4oZFCyUTKdmVDpSo9hVTmwa9EYpTHdwLLtNOiruexNWOjSs9viADMhLtFGy0PfiBrAFdqicKf952WHyb9P3-zDm7AtixfO-P-nvXv0mIvXbR_gkGI09oEFk4myE8DrHf2LlJLb__9nexcqS-qi9PrPDqxqcwPuGurLrZes1hGIbNuP-ZC33hAD4drAcP6Ke2ePiu-N059lCzBof_Nibi-uLyz06pxnhQ56UOzWfIlvpO19rnUZiyNA9cu2MTkVCtbzQ.81n79uIjSOHBailQv2D_n9y5weWBlbS8XStFYpJ_nmU&dib_tag=se&keywords=velcro%2Bwrist%2Bstraps&plpRedirect=mhFallback&qid=1795399414&sr=8-2&th=1
+
+
+______________
+Shelton setup
+______________
+Adafruit TDK InvenSense ICM-20948 9-DoF IMU (MPU-9250 Upgrade) - STEMMA QT / Qwiic
+
+Adafruit DRV2605L Haptic Motor Controller - STEMMA QT / Qwiic
+Product ID: 2305
+
+Vibrating Mini Motor Disc
+Product ID: 1201
+
+Adafruit QT Py ESP32-S3 WiFi Dev Board with STEMMA QT - 8 MB Flash / No PSRAM
+
+Adafruit LiIon or LiPoly Charger BFF Add-On for QT Py
+Product ID: 5397
+
+Lithium Ion Polymer Battery - 3.7v 500mAh
+
+https://www.amazon.com/Organizer-HUAPX-Self-Adhesive-Fastening-Adjustable/dp/B088FH1289/ref=sr_1_2?channelId=500&clpRedir=Y&dib=eyJ2IjoiMSJ9.ZWJQlNox3AJ_sVWuh3FWq5QWcRfkVNTwNEjSXwPU4oZFCyUTKdmVDpSo9hVTmwa9EYpTHdwLLtNOiruexNWOjSs9viADMhLtFGy0PfiBrAFdqicKf952WHyb9P3-zDm7AtixfO-P-nvXv0mIvXbR_gkGI09oEFk4myE8DrHf2LlJLb__9nexcqS-qi9PrPDqxqcwPuGurLrZes1hGIbNuP-ZC33hAD4drAcP6Ke2ePiu-N059lCzBof_Nibi-uLyz06pxnhQ56UOzWfIlvpO19rnUZiyNA9cu2MTkVCtbzQ.81n79uIjSOHBailQv2D_n9y5weWBlbS8XStFYpJ_nmU&dib_tag=se&keywords=velcro%2Bwrist%2Bstraps&plpRedirect=mhFallback&qid=1795399414&sr=8-2&th=1

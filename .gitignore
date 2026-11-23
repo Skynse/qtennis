@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Rerun recordings
+*.rrd
+
+# Generated / downloaded (pose model is fetched automatically by pose_analyzer.py)
+pose/models/
+pose/output/
+
+# Local tool settings
+.claude/settings.local.json
