@@ -12,3 +12,7 @@ pose/output/
 
 # Local tool settings
 .claude/settings.local.json
+
+# Third-party datasets (license forbids redistribution)
+data/
+ml/checkpoints/
